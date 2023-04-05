@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm pabloscyzoryk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-### About ne:
+### About me:
 I am a starting Full Stack Developer :man_technologist: from Poland <br />
 • I'm very competitive :crossed_swords: <br />
 • I never get tired :running_man: <br />
@@ -31,7 +31,7 @@ I love exploring new technologies. Sometimes you may even see me use them in unn
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
-### Spotify currently playing 🎧
+### Currently vibing on Spotify to: 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4o5v54qcf4w42odnmkkjh21tt&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4o5v54qcf4w42odnmkkjh21tt&redirect=true)
 
