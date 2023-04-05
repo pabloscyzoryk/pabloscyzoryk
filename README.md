@@ -6,10 +6,10 @@
 <h1 align="center">Hi, I'm pabloscyzoryk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 ### About ne:
-I am a Full Stack Developer :man_technologist: from Poland <br />
+I am a starting Full Stack Developer :man_technologist: from Poland <br />
 • I'm very competitive :crossed_swords: <br />
 • I never get tired :running_man: <br />
-• I always look forward for improvement at anything :arrow_up: <br /> <br />
+• I am always looking for what I can improve :arrow_up: <br /> <br />
 
 I love exploring new technologies. Sometimes you may even see me use them in unnecesarry ways just to try something out. <br />
 ### Besides coding...
