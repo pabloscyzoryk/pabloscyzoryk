@@ -11,7 +11,7 @@ I am a starting Full Stack Developer :man_technologist: from Poland <br />
 • I never get tired :running_man: <br />
 • I am always looking for what I can improve :arrow_up: <br /> <br />
 
-I love exploring new technologies. Sometimes you may even see me use them in unnecesarry ways just to try something out. <br />
+I love exploring new technologies. Sometimes you may even see me use them in unnecessary ways just to try something out. <br />
 ### Besides coding...
 • I'm a guitarist :guitar: <br />
 • I'm in love with poetry and music creation :notes: <br />
