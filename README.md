@@ -35,7 +35,9 @@ I love exploring new technologies. Sometimes you may even see me use them in unn
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pabloscyzoryk&theme=react&count_private=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloscyzoryk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloscyzoryk)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-six-kappa-92.vercel.app/api?username=pabloscyzoryk)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pabloscyzoryk/pabloscyzoryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
